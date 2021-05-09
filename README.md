@@ -2,11 +2,11 @@
 Este projeto é uma análise de dados para a cadeira de Introdução a ciência de dados.
 
 ## Integrantes:
-    Filipe de Medeiros Santos
+   Filipe de Medeiros Santos
 
-    Lucas Miranda de Aguiar
+   Lucas Miranda de Aguiar
 
-    Deivison Rodrigues Jordão
+   Deivison Rodrigues Jordão
 
 ## Datasets utilizados:
    healthcare-dataset-stroke-data
