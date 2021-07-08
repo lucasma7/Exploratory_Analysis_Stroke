@@ -11,3 +11,5 @@ Este projeto é uma análise de dados para a cadeira de Introdução a ciência 
 ## Datasets utilizados:
    healthcare-dataset-stroke-data
    - https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
+
+Para utilização da interface é necessário o downloado do arquivo "exploratory_analysis_stroke.ipynb"
